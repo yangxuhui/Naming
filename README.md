@@ -1,3 +1,9 @@
 # Naming
+## Math
+- carry 进位
+- complement
+## Linked List
+- dummy_head
+## Other Subject
 - validate_xxx
-- XXXWithYYY
+- XXX_with_YYY
