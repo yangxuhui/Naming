@@ -1,4 +1,4 @@
-# Naming
+# naming
 ## Math
 - carry 进位
 - complement
